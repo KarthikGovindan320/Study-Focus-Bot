@@ -1,0 +1,6 @@
+1) A clear camera in a proper static study environment. Well lit room (to help increase facial detection accuracy)
+
+2) The following libraries are to be installed using pip prior to usage : 
+      cv2 (OpenCV) 
+      PIL (Pillow) 
+      playsound 
