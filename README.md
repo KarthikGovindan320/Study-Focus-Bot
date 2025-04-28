@@ -24,7 +24,7 @@ Inspired by online at-home AI-proctored exams, I developed this **focus bot** to
   - Maintains a study-to-break ratio over the past 5 hours.
 
 ## My Experience
-I use the Study-Focus-Bot regularly, and it has significantly improved my ability to concentrate.  
+I use this regularly, and it has significantly improved my ability to concentrate.  
 Over time, it helped me become more detached from distractions — both with and without relying on this bot.
 
 ## Feedback
