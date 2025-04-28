@@ -32,5 +32,3 @@ I am **eagerly accepting feedback and suggestions** to improve this project.
 Hope this tool helps you too!
 
 ---
-
-*Note: This is a personal project built with Python and facial recognition tools.*
